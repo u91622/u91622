@@ -1,16 +1,18 @@
-### Hi there 👋
+### 專長
 
-<!--
-**u91622/u91622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 機器學習 with R \
+- 🌱 資料視覺化 with R \
+- 🌱 資料庫設計 with Microsoft SQL \
+  
+### 經歷
 
-Here are some ideas to get you started:
+- 💬 輔仁大學教育大數據學程 \
+- 💬 輔仁大學西班牙語文學系 \
+- 💬 輔仁大學外交學程 \
+- 💬 臺北大學國經班 \
+- 💬 國立桃園高中
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 信箱
+
+- 📫 u91622@gmail.com \
+- 📫 409130593@m365.fju.edu.tw
