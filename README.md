@@ -3,6 +3,7 @@
 - 🌱 機器學習 with R \
 - 🌱 資料視覺化 with R \
 - 🌱 資料庫設計 with Microsoft SQL 
+- 🌱 金融數據分析 with Python
   
 ### 經歷
 
